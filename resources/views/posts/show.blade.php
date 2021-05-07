@@ -20,6 +20,9 @@
                     @else
                         No image available
                     @endif
+
+                    @include('/posts/comments')
+                    
                 </div>
             </div>
         </div>
